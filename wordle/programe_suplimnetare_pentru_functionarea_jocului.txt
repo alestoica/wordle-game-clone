@@ -1,0 +1,7 @@
+Pentru generarea random a cuvintelor am instalat "Node.js" 
+si apoi comanda "nmp" in command prompt, care m-au ajutat 
+sa implementez API-ul Random Word Generator, codul corespunzator 
+fiind preluat de pe site-ul RapidAPI. Pentru a nu ne complica, 
+este posibila si introducerea manuala a unui cuvant, direct in 
+cod, ceea ce permite testarea jocului cu usurinta, de pe orice 
+computer.
