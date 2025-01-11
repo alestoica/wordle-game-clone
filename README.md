@@ -21,7 +21,7 @@ This project is an interactive word-guessing online game designed to challenge a
 ## How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/alestoica/wordle_game_clone.git
+    git clone https://github.com/alestoica/wordle-game-clone.git
     ```
 2. Navigate to the project directory:
     ```bash
